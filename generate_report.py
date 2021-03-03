@@ -33,9 +33,9 @@ def add_contact_info(name, pdf):
     pdf.set_font('Arial', '', 8)
     pdf.write(4, "Contact Information:")
     pdf.ln(3)
-    pdf.write(4, "Davide Mendes - Analytical R&D Engineer")
+    pdf.write(4, "CENSORED")
     pdf.ln(3)
-    pdf.write(4, "+46 410 59 202")
+    pdf.write(4, "CENSORED")
     pdf.ln(5)
     pdf.write(4, f"Sample requester: {name}")
 
