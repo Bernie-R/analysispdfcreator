@@ -4,7 +4,8 @@ import matplotlib.pyplot as plt
 from read_excel_and_extract_data import read_excel_from_dir,\
     read_sample_creator, read_sml, read_which_are_acrylates_and_pi
 
-excel_dir = r"C:\Users\sebero\PycharmProjects\analysispdfcreator\Migration samples results.xlsx"
+
+excel_dir = "..." #hidden
 
 
 def create_subplots(excel_dir):
